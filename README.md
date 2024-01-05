@@ -5,20 +5,20 @@ means. The application is designed to help parents that seek additional educatio
 for their children.  It is avalible both as Android and web application.
 
 ## Features
-Log-in interface
-Menu of cources and tutors with full description
-Communication with tutors
-Convenient registration for classes
-Viewing student progress. 
-Contats and reference information
+- Log-in interface
+- Menu of cources and tutors with full description
+- Communication with tutors
+- Convenient registration for classes
+- Viewing student progress. 
+- Contats and reference information
 
 ## Technologies used
-Spring Boot: A powerful and flexible Java framework for building web applications.
-Thymeleaf: A modern server-side Java template engine for web and standalone
+- Spring Boot: A powerful and flexible Java framework for building web applications.
+- Thymeleaf: A modern server-side Java template engine for web and standalone
 environments.
-Hibernate: An object-relational mapping framework for the Java programming
+- Hibernate: An object-relational mapping framework for the Java programming
 language.
-OkHttp: An open-source HTTP client for Java that simplifies communication with
+- OkHttp: An open-source HTTP client for Java that simplifies communication with
 APIs.
 
 ## Getting started
