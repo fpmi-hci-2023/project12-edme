@@ -25,7 +25,7 @@ APIs.
 ### Android
 - Download Git and Android Studio
 - Using Git Bash write `git init`
-- Clone repository with `git clone https://github.com/Antonio205/edme-pmms.git`
+- Clone repository with `git clone https://github.com/fpmi-hci-2023/project12a-mobile-edme`
 - Compile & execute project using Android Studio
 
 ### Web application
